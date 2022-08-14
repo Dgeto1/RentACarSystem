@@ -1,0 +1,53 @@
+﻿<Properties StartupConfiguration="{C0D017F8-30A3-4670-ACFA-6E404C225356}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RentACar/Controllers/UserCarsController.cs">
+    <Files>
+      <File FileName="RentACar/Data/ApplicationDbContext.cs" Line="1" Column="1" />
+      <File FileName="RentACar/appsettings.json" Line="4" Column="6" />
+      <File FileName="RentACar/Program.cs" Line="16" Column="1" />
+      <File FileName="RentACar/Areas/Identity/Pages/Account/Login.cshtml" Line="51" Column="5" />
+      <File FileName="RentACar/Views/Shared/_Layout.cshtml" Line="52" Column="14" />
+      <File FileName="RentACar/Views/Cars/Index.cshtml" Line="16" Column="62" />
+      <File FileName="RentACar/Views/Home/Privacy.cshtml" Line="6" Column="4" />
+      <File FileName="RentACar/Views/Cars/ShowSearchForm.cshtml" Line="3" Column="20" />
+      <File FileName="RentACar/Views/Cars/Create.cshtml" Line="1" Column="1" />
+      <File FileName="RentACar/Controllers/UserCarsController.cs" Line="101" Column="10" />
+      <File FileName="RentACar/Controllers/CarsController.cs" Line="44" Column="14" />
+      <File FileName="RentACar/Views/Cars/Delete.cshtml" Line="1" Column="1" />
+      <File FileName="RentACar/Views/UserCars/Delete.cshtml" Line="1" Column="1" />
+      <File FileName="RentACar/Views/UserCars/Index.cshtml" Line="1" Column="1" />
+      <File FileName="RentACar/Views/Cars/Edit.cshtml" Line="1" Column="1" />
+      <File FileName="RentACar/Views/UserCars/Edit.cshtml" Line="1" Column="1" />
+      <File FileName="RentACar/Areas/Identity/Pages/Account/Register.cshtml" Line="53" Column="5" />
+      <File FileName="RentACar/Views/Home/Index.cshtml" Line="21" Column="12" />
+      <File FileName="RentACar/Startup.cs" Line="49" Column="1" />
+      <File FileName="RentACar/Controllers/HomeController.cs" Line="1" Column="1" />
+      <File FileName="RentACar/Areas/Identity/Pages/Error.cshtml" Line="1" Column="1" />
+      <File FileName="RentACar/Models/Car.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RentACar" expanded="True">
+            <Node name="RentACar" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="UserCarsController.cs" selected="True" />
+              </Node>
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.RentACar PreferredExecutionTarget="/Applications/Firefox Developer Edition.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

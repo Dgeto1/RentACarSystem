@@ -1,0 +1,630 @@
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/appsettings.Development.json
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/appsettings.json
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/RentACar.StaticWebAssets.xml
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/RentACar.exe
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/RentACar.deps.json
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/RentACar.runtimeconfig.json
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/RentACar.runtimeconfig.dev.json
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/RentACar.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/RentACar.pdb
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/RentACar.Views.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/RentACar.Views.pdb
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/Humanizer.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.UI.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/Microsoft.AspNetCore.Razor.Language.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/Microsoft.CodeAnalysis.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/Microsoft.CodeAnalysis.Razor.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/Microsoft.CodeAnalysis.Workspaces.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/Microsoft.DotNet.PlatformAbstractions.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/Microsoft.Extensions.FileProviders.Embedded.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/Microsoft.Extensions.Identity.Core.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/Microsoft.Extensions.Identity.Stores.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/dotnet-aspnet-codegenerator-design.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/Newtonsoft.Json.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/System.Composition.AttributedModel.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/System.Composition.Convention.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/System.Composition.Hosting.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/System.Composition.Runtime.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/System.Composition.TypedParts.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/System.Runtime.Caching.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.resources.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.resources.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.resources.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.resources.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.resources.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.resources.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.resources.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.resources.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/runtimes/win-arm/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/runtimes/win-arm64/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/RentACar.csproj.AssemblyReference.cache
+C:/Users/hrist/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/RentACar.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/hrist/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/RentACar.AssemblyInfoInputs.cache
+C:/Users/hrist/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/RentACar.AssemblyInfo.cs
+C:/Users/hrist/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/RentACar.csproj.CoreCompileInputs.cache
+C:/Users/hrist/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/RentACar.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/hrist/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/RentACar.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/hrist/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/RentACar.RazorAssemblyInfo.cache
+C:/Users/hrist/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/RentACar.RazorAssemblyInfo.cs
+C:/Users/hrist/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/scopedcss/bundle/RentACar.styles.css
+C:/Users/hrist/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/staticwebassets/RentACar.StaticWebAssets.Manifest.cache
+C:/Users/hrist/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/staticwebassets/RentACar.StaticWebAssets.xml
+C:/Users/hrist/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/RentACar.TagHelpers.input.cache
+C:/Users/hrist/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/RentACar.TagHelpers.output.cache
+C:/Users/hrist/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/RentACar.RazorCoreGenerate.cache
+C:/Users/hrist/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/AccessDenied.cshtml.g.cs
+C:/Users/hrist/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/ConfirmEmail.cshtml.g.cs
+C:/Users/hrist/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/ConfirmEmailChange.cshtml.g.cs
+C:/Users/hrist/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/ExternalLogin.cshtml.g.cs
+C:/Users/hrist/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/ForgotPassword.cshtml.g.cs
+C:/Users/hrist/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/ForgotPasswordConfirmation.cshtml.g.cs
+C:/Users/hrist/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Lockout.cshtml.g.cs
+C:/Users/hrist/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Login.cshtml.g.cs
+C:/Users/hrist/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/LoginWith2fa.cshtml.g.cs
+C:/Users/hrist/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/LoginWithRecoveryCode.cshtml.g.cs
+C:/Users/hrist/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Logout.cshtml.g.cs
+C:/Users/hrist/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/ChangePassword.cshtml.g.cs
+C:/Users/hrist/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/DeletePersonalData.cshtml.g.cs
+C:/Users/hrist/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/Disable2fa.cshtml.g.cs
+C:/Users/hrist/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/DownloadPersonalData.cshtml.g.cs
+C:/Users/hrist/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/Email.cshtml.g.cs
+C:/Users/hrist/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/EnableAuthenticator.cshtml.g.cs
+C:/Users/hrist/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/ExternalLogins.cshtml.g.cs
+C:/Users/hrist/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/GenerateRecoveryCodes.cshtml.g.cs
+C:/Users/hrist/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/Index.cshtml.g.cs
+C:/Users/hrist/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/PersonalData.cshtml.g.cs
+C:/Users/hrist/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/ResetAuthenticator.cshtml.g.cs
+C:/Users/hrist/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/SetPassword.cshtml.g.cs
+C:/Users/hrist/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/ShowRecoveryCodes.cshtml.g.cs
+C:/Users/hrist/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/TwoFactorAuthentication.cshtml.g.cs
+C:/Users/hrist/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/_Layout.cshtml.g.cs
+C:/Users/hrist/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml.g.cs
+C:/Users/hrist/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/_StatusMessage.cshtml.g.cs
+C:/Users/hrist/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml.g.cs
+C:/Users/hrist/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Register.cshtml.g.cs
+C:/Users/hrist/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/RegisterConfirmation.cshtml.g.cs
+C:/Users/hrist/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/ResendEmailConfirmation.cshtml.g.cs
+C:/Users/hrist/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/ResetPassword.cshtml.g.cs
+C:/Users/hrist/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/ResetPasswordConfirmation.cshtml.g.cs
+C:/Users/hrist/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/_StatusMessage.cshtml.g.cs
+C:/Users/hrist/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/_ViewImports.cshtml.g.cs
+C:/Users/hrist/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Error.cshtml.g.cs
+C:/Users/hrist/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml.g.cs
+C:/Users/hrist/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/_ViewImports.cshtml.g.cs
+C:/Users/hrist/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/_ViewStart.cshtml.g.cs
+C:/Users/hrist/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Views/Cars/Create.cshtml.g.cs
+C:/Users/hrist/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Views/Cars/Delete.cshtml.g.cs
+C:/Users/hrist/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Views/Cars/Details.cshtml.g.cs
+C:/Users/hrist/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Views/Cars/Edit.cshtml.g.cs
+C:/Users/hrist/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Views/Cars/Index.cshtml.g.cs
+C:/Users/hrist/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Views/Cars/ShowSearchForm.cshtml.g.cs
+C:/Users/hrist/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+C:/Users/hrist/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Views/Home/Privacy.cshtml.g.cs
+C:/Users/hrist/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+C:/Users/hrist/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+C:/Users/hrist/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Views/Shared/_LoginPartial.cshtml.g.cs
+C:/Users/hrist/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+C:/Users/hrist/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+C:/Users/hrist/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+C:/Users/hrist/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/RentACar.RazorTargetAssemblyInfo.cache
+C:/Users/hrist/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/RentACar.RazorTargetAssemblyInfo.cs
+C:/Users/hrist/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/RentACar.Views.pdb
+C:/Users/hrist/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/RentACar.csproj.CopyComplete
+C:/Users/hrist/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/RentACar.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/refint/RentACar.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/RentACar.pdb
+C:/Users/hrist/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/RentACar.genruntimeconfig.cache
+C:/Users/hrist/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/ref/RentACar.dll
+C:/Users/hrist/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Views/UserCars/Create.cshtml.g.cs
+C:/Users/hrist/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Views/UserCars/Delete.cshtml.g.cs
+C:/Users/hrist/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Views/UserCars/Details.cshtml.g.cs
+C:/Users/hrist/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Views/UserCars/Edit.cshtml.g.cs
+C:/Users/hrist/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Views/UserCars/Index.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/appsettings.Development.json
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/appsettings.json
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/RentACar.StaticWebAssets.xml
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/RentACar
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/RentACar.deps.json
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/RentACar.runtimeconfig.json
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/RentACar.runtimeconfig.dev.json
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/RentACar.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/RentACar.pdb
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/RentACar.Views.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/RentACar.Views.pdb
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/Humanizer.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.UI.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/Microsoft.AspNetCore.Razor.Language.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/Microsoft.CodeAnalysis.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/Microsoft.CodeAnalysis.Razor.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/Microsoft.Extensions.FileProviders.Embedded.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/Microsoft.Extensions.Identity.Core.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/dotnet-aspnet-codegenerator-design.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/System.Composition.AttributedModel.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/System.Composition.Convention.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/System.Composition.Hosting.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/System.Composition.Runtime.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/System.Composition.TypedParts.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/System.Runtime.Caching.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/runtimes/win-arm/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/runtimes/win-arm64/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/RentACar.csproj.AssemblyReference.cache
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/RentACar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/RentACar.AssemblyInfoInputs.cache
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/RentACar.AssemblyInfo.cs
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/RentACar.csproj.CoreCompileInputs.cache
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/RentACar.MvcApplicationPartsAssemblyInfo.cs
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/RentACar.MvcApplicationPartsAssemblyInfo.cache
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/RentACar.RazorAssemblyInfo.cache
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/RentACar.RazorAssemblyInfo.cs
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/scopedcss/bundle/RentACar.styles.css
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/staticwebassets/RentACar.StaticWebAssets.Manifest.cache
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/staticwebassets/RentACar.StaticWebAssets.xml
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/RentACar.TagHelpers.input.cache
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/RentACar.TagHelpers.output.cache
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/RentACar.RazorCoreGenerate.cache
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/AccessDenied.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/ConfirmEmail.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/ConfirmEmailChange.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/ExternalLogin.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/ForgotPassword.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/ForgotPasswordConfirmation.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Lockout.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Login.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/LoginWith2fa.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/LoginWithRecoveryCode.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Logout.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/ChangePassword.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/DeletePersonalData.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/Disable2fa.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/DownloadPersonalData.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/Email.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/EnableAuthenticator.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/ExternalLogins.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/GenerateRecoveryCodes.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/Index.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/PersonalData.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/ResetAuthenticator.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/SetPassword.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/ShowRecoveryCodes.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/TwoFactorAuthentication.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/_Layout.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/_StatusMessage.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Register.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/RegisterConfirmation.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/ResendEmailConfirmation.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/ResetPassword.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/ResetPasswordConfirmation.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/_StatusMessage.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/_ViewImports.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Error.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/_ViewImports.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/_ViewStart.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Views/Cars/Create.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Views/Cars/Delete.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Views/Cars/Details.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Views/Cars/Edit.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Views/Cars/Index.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Views/Cars/ShowSearchForm.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Views/Home/Privacy.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Views/Shared/_LoginPartial.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Views/UserCars/Create.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Views/UserCars/Delete.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Views/UserCars/Details.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Views/UserCars/Edit.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Views/UserCars/Index.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/RentACar.RazorTargetAssemblyInfo.cache
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/RentACar.RazorTargetAssemblyInfo.cs
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/RentACar.Views.pdb
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/RentACar.csproj.CopyComplete
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/RentACar.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/refint/RentACar.dll
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/RentACar.pdb
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/RentACar.genruntimeconfig.cache
+/Users/hristopapanov/Desktop/RentACarNew/RentACar/obj/Debug/net5.0/ref/RentACar.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/appsettings.Development.json
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/appsettings.json
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/RentACar.StaticWebAssets.xml
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/RentACar
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/RentACar.deps.json
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/RentACar.runtimeconfig.json
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/RentACar.runtimeconfig.dev.json
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/RentACar.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/RentACar.pdb
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/RentACar.Views.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/RentACar.Views.pdb
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/Humanizer.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.UI.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/Microsoft.AspNetCore.Razor.Language.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/Microsoft.CodeAnalysis.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/Microsoft.CodeAnalysis.Razor.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/Microsoft.Extensions.FileProviders.Embedded.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/Microsoft.Extensions.Identity.Core.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/dotnet-aspnet-codegenerator-design.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/System.Composition.AttributedModel.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/System.Composition.Convention.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/System.Composition.Hosting.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/System.Composition.Runtime.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/System.Composition.TypedParts.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/System.Runtime.Caching.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/runtimes/win-arm/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/runtimes/win-arm64/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/obj/Debug/net5.0/RentACar.csproj.AssemblyReference.cache
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/obj/Debug/net5.0/RentACar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/obj/Debug/net5.0/RentACar.AssemblyInfoInputs.cache
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/obj/Debug/net5.0/RentACar.AssemblyInfo.cs
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/obj/Debug/net5.0/RentACar.csproj.CoreCompileInputs.cache
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/obj/Debug/net5.0/RentACar.MvcApplicationPartsAssemblyInfo.cs
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/obj/Debug/net5.0/RentACar.MvcApplicationPartsAssemblyInfo.cache
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/obj/Debug/net5.0/RentACar.RazorAssemblyInfo.cache
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/obj/Debug/net5.0/RentACar.RazorAssemblyInfo.cs
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/obj/Debug/net5.0/scopedcss/bundle/RentACar.styles.css
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/obj/Debug/net5.0/staticwebassets/RentACar.StaticWebAssets.Manifest.cache
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/obj/Debug/net5.0/staticwebassets/RentACar.StaticWebAssets.xml
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/obj/Debug/net5.0/RentACar.TagHelpers.input.cache
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/obj/Debug/net5.0/RentACar.TagHelpers.output.cache
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/obj/Debug/net5.0/RentACar.RazorCoreGenerate.cache
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/AccessDenied.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/ConfirmEmail.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/ConfirmEmailChange.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/ExternalLogin.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/ForgotPassword.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/ForgotPasswordConfirmation.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Lockout.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Login.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/LoginWith2fa.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/LoginWithRecoveryCode.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Logout.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/ChangePassword.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/DeletePersonalData.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/Disable2fa.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/DownloadPersonalData.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/Email.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/EnableAuthenticator.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/ExternalLogins.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/GenerateRecoveryCodes.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/Index.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/PersonalData.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/ResetAuthenticator.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/SetPassword.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/ShowRecoveryCodes.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/TwoFactorAuthentication.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/_Layout.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/_StatusMessage.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Register.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/RegisterConfirmation.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/ResendEmailConfirmation.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/ResetPassword.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/ResetPasswordConfirmation.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/_StatusMessage.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/_ViewImports.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Error.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/_ViewImports.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/obj/Debug/net5.0/Razor/Areas/Identity/Pages/_ViewStart.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/obj/Debug/net5.0/Razor/Views/Cars/Create.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/obj/Debug/net5.0/Razor/Views/Cars/Delete.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/obj/Debug/net5.0/Razor/Views/Cars/Details.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/obj/Debug/net5.0/Razor/Views/Cars/Edit.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/obj/Debug/net5.0/Razor/Views/Cars/Index.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/obj/Debug/net5.0/Razor/Views/Cars/ShowSearchForm.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/obj/Debug/net5.0/Razor/Views/Home/Privacy.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/obj/Debug/net5.0/Razor/Views/Shared/_LoginPartial.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/obj/Debug/net5.0/Razor/Views/UserCars/Create.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/obj/Debug/net5.0/Razor/Views/UserCars/Delete.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/obj/Debug/net5.0/Razor/Views/UserCars/Details.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/obj/Debug/net5.0/Razor/Views/UserCars/Edit.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/obj/Debug/net5.0/Razor/Views/UserCars/Index.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/obj/Debug/net5.0/RentACar.RazorTargetAssemblyInfo.cache
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/obj/Debug/net5.0/RentACar.RazorTargetAssemblyInfo.cs
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/obj/Debug/net5.0/RentACar.Views.pdb
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/obj/Debug/net5.0/RentACar.csproj.CopyComplete
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/obj/Debug/net5.0/RentACar.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/obj/Debug/net5.0/refint/RentACar.dll
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/obj/Debug/net5.0/RentACar.pdb
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/obj/Debug/net5.0/RentACar.genruntimeconfig.cache
+/Users/hristopapanov/Desktop/RentACarNew 3/RentACar/obj/Debug/net5.0/ref/RentACar.dll
